@@ -5,6 +5,9 @@
 First, please don't take this to seriously. This ball won't be the answer to your reel problem. It's just for fun! 😉
 
 This project is just to help me learn SwiftUI a little bit better.
+
+It's an image of magic ball who display a random message when you click on the button "Shake Me".
+
 - I will try to animate the ball, to give the impression that it shake.(When I'll be stronger, I'll try to use the shaking of the device)📳.
 - I will try to use some transition on the message of the ball .
 
